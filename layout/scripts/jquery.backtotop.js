@@ -20,3 +20,19 @@ jQuery(window).scroll(function () {
         jQuery("#backtotop").removeClass("visible");
     }
 });
+
+
+//program for onscroll navigation sticky
+
+let addeventControl = window.addEventListener('scroll', () =>{
+    let falseStatement = false;
+    let parentEle = document.querySelector('.stickTop');
+    if (window.scrollY >= 20) {
+        parentEle.classList.add('stickBar');
+        falseStatement = true;
+    } else {
+        parentEle.classList.remove('stickBar');
+        falseStatement = false;
+    }
+})
+addeventControl()

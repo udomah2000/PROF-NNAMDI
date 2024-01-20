@@ -44,7 +44,15 @@ background-size: cover;
 background-color: rgb(15, 94, 128) !important;
 background-blend-mode: soft-light !important;
 }
-
+.stickBar{
+    position: fixed !important;
+    background-color: black !important;
+    top: 0 !important;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px !important;
+}
+.stickTopbar{
+    z-index: 100 !important;
+}
 .circle{border-radius:50%; background-clip:padding-box; }
 
 .logoname{margin:0; padding:0; font-size:2rem; font-variant:small-caps;}

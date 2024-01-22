@@ -20,7 +20,7 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 .uppercase{text-transform:uppercase;}
 .capitalise{text-transform:capitalize;}
 .hidden{display:none;}
-.nospace{margin:0; padding:0; list-style:none;}
+.nospace{margin: 0; padding:0; list-style:none;}
 .block{display:block;}
 .inline{display:inline-block;}
 .justified{text-align:justify;}
@@ -35,24 +35,94 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
     border-bottom: solid #B0CA35 ;
     border-bottom-width: 1.5rem;
 }
+.center-text{
+    text-align: center;
+}
+.mb{
+    margin-bottom: 2rem !important;
+}
+.mt{
+    margin-bottom: 1.5rem !important;
+}
+.pad-text{
+    text-transform:lowercase !important;
+}
+.text-cap{
+    text-transform:capitalize !important ;
+   
+}
+p.text-cap{
+    font-size: 1.5rem !important;
+}
+.color-dot{
+    color:#B0CA35;
+}
+.thesis-height li{
+    height: 45vh !important;
+}
+.coloured-p .h6-c, .address-c, .p-c{
+    color: #fff;
+}
+.coloured-p ul{
+    list-style-type: none;
+}
 .header-cover{
 background:url('/images/Nnamdi\ 07.jpeg') no-repeat top center;
 object-fit: cover;
 width: 100%;
 background-origin:border-box;
 background-size: cover;
-background-color: rgb(15, 94, 128) !important;
+background-color: #0f5e80 !important;
 background-blend-mode: soft-light !important;
+}
+.journal-cover{
+background:url('/images/Nnamdi\ 010.jpeg') no-repeat top center;
+object-fit: cover;
+width: 100%;
+background-origin:border-box;
+background-size: cover;
+background-color: #0f5e80 !important;
+background-blend-mode: soft-light !important;
+
+}
+.about-cover{
+background:url('/images/Nnamdi\ 5.jpeg') no-repeat top center;
+object-fit: cover;
+width: 100%;
+background-origin:border-box;
+background-size: cover;
+background-color: #0f5e80 !important;
+background-blend-mode: soft-light !important;
+
 }
 .stickBar{
     position: fixed !important;
-    background-color: black !important;
+    background-color: #0f5e80 !important;
     top: 0 !important;
     box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px !important;
 }
 .stickTopbar{
     z-index: 100 !important;
 }
+#introblocks .group li .div-height {
+    height: 30vh !important;
+}
+.publication-h .para-h{
+    height: 45vh;
+}
+@media screen and (max-width:750px) {
+    .publication-h .para-h{
+        height: auto !important;
+    }
+      
+}
+@media screen and (min-width:700px) {
+    .publication-h .para-h{
+        overflow-y: scroll;
+    }
+      
+}
+
 .circle{border-radius:50%; background-clip:padding-box; }
 
 .logoname{margin:0; padding:0; font-size:2rem; font-variant:small-caps;}
@@ -127,7 +197,11 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
 
 .first{margin-left:0; clear:left;}
 
-.one_quarter{width:21.8421%;}
+.one_quarter{
+    width:29.8421%;
+}
+/* .one_quarter{width:21.8421%;} */
+
 .one_third{width:30.52631%;}
 .one_half, .two_quarter{width:47.89473%;}
 .two_third{width:65.26315%;}

@@ -516,11 +516,26 @@ table a, #comments a{background-color:inherit;}
 	#footer .latestimg > li:last-child{margin-bottom:0;}
 	#footer .latestimg > li img{width:auto;}
 }
-
-@media screen and (min-width:451px) and (max-width:900px){
+/* @media screen and (min-width:451px) and (max-width:900px){ */
+@media screen and (min-width:451px){
+	/* .pr-charts .pr-chart-ctrl{width:50%; margin-bottom:50px;;} */
 	.pr-charts .pr-chart-ctrl{width:50%; margin-bottom:50px;}
+	.pad-text{padding: 0 5rem !important;	}
+	/* .pr-charts .pr-chart-ctrl:nth-child(n+3){margin-bottom:0;} */
+	
+}
+@media screen  and (max-width:900px){
+	
+	/* .pr-charts .pr-chart-ctrl{width:50%; margin-bottom:50px;;} */
+	.pr-charts .pr-chart-ctrl{width:100%; margin-bottom:50px; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;}
 	.pr-charts .pr-chart-ctrl:nth-child(n+3){margin-bottom:0;}
 }
+
+/* @media screen  and (max-width:700px){
+	.block-display{
+		display: block !important;
+	}
+} */
 
 @media screen and (max-width:450px){
 	#topbar > div:first-of-type ul li{display:block; margin:0;}

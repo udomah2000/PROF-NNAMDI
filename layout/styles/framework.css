@@ -112,6 +112,44 @@ p.text-cap{
     background-color: #020f14 !important;
     background-blend-mode: soft-light !important;
     }
+
+    .conference-cover{
+        background:url('/images/Nnamdi\ 9.jpeg') no-repeat top center;
+        object-fit: cover;
+        width: 100%;
+        background-origin:border-box;
+        background-size: cover;
+        background-color: #020f14 !important;
+        background-blend-mode: soft-light !important;
+        background-attachment: fixed;
+    
+    }
+    .about-cover-list{
+        background:url('/images/Nnamdi\ 010.jpeg') no-repeat top center;
+        object-fit: cover;
+        width: 100%;
+        background-origin:border-box;
+        background-size: cover;
+        background-color: #020f14 !important;
+        background-blend-mode: soft-light !important;
+        background-attachment: fixed;
+    
+    }
+    .about-cover-citation{
+        background-color: #08181f !important;
+        background-attachment: fixed;
+
+    }
+    .academic-cover{
+        background:url('/images/Nnamdi\ 6.jpeg') no-repeat top center;
+        object-fit: cover;
+        width: 100%;
+        background-origin:border-box;
+        background-size: cover;
+        background-color: #020f14 !important;
+        background-blend-mode: soft-light !important;
+        background-attachment: fixed;
+    }
     
 .header-cover{
 background:url('/images/Nnamdi\ 07.jpeg') no-repeat top center;
@@ -135,7 +173,7 @@ background-blend-mode: soft-light !important;
 
 
 .journal-cover-bg{
-    background-color:rgb(228, 238, 247) !important;
+    background-color:rgb(251, 253, 255) !important;
 
 }
 .journal-cover-bg article{
@@ -145,6 +183,10 @@ background-blend-mode: soft-light !important;
 .journal-cover-bg li h6, p{
     color: #000;
 }
+.conference-shadow{
+    padding: 1.2rem 1.3rem !important;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
 .journal-cover-bg article .downloadbtn{
     padding: 1.2rem 1.3rem;
     font-size: 11px;
@@ -153,11 +195,24 @@ background-blend-mode: soft-light !important;
     background-color: #B0CA35;
     border-radius: 9px;
 }
-.journal-cover-bg article .downloadbtn a{
+.journal-cover-bg article .downloadbtn a, .downloadbtnbook a{
     border: none !important;
+    color: #fff !important;
+}
+.journal-cover-bg article .downloadbtna a, .downloadbtnbook a:hover{
+    border: none !important;
+    background-color: transparent !important;
 }
 
+.journal-cover-bg article .downloadbtnbook{
+    padding: 1.2rem 1.3rem;
+    font-size: 11px;
+    cursor: pointer;
+    border: none !important;
+    background-color: #0f5e80;
+    border-radius: 9px;
 
+}
 
 .about-cover{
 background:url('/images/Nnamdi\ 5.jpeg') no-repeat top center;
@@ -167,6 +222,18 @@ background-origin:border-box;
 background-size: cover;
 background-color: #0f5e80 !important;
 background-blend-mode: soft-light !important;
+
+}
+.book-cover{
+ background:url('/images/Nnamdi\ 6.jpeg') no-repeat top center;
+object-fit: cover;
+width: 100%;
+height: fit-content;
+background-origin:border-box;
+background-size: cover;
+background-color: #0f5e80 !important;
+background-blend-mode: soft-light !important;
+z-index: 100;
 
 }
 .stickBar{

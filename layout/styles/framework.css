@@ -46,10 +46,14 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 }
 .pad-text{
     text-transform:lowercase !important;
+    padding: 1.3rem 1.8rem;
 }
 .text-cap{
     text-transform:capitalize !important ;
    
+}
+.text-up{
+    text-transform: uppercase !important;
 }
 p.text-cap{
     font-size: 1.5rem !important;
@@ -66,6 +70,49 @@ p.text-cap{
 .coloured-p ul{
     list-style-type: none;
 }
+.shadow-ml{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+.bg-tran{
+    background-color: transparent !important;
+    color: #000 !important;
+    border-radius:2rem;
+    padding: 1.3rem 1.5rem !important;
+}
+
+.font-x5{
+    font-size: 5rem !important;
+    text-align: center;
+    width: 100%;
+    padding-top: 3rem;
+}
+.font-x6{
+    font-size: 3rem !important;
+    text-align: center;
+    width: 100%;
+    padding-top: 3rem;
+}
+.text-sm{
+    font-size: 14px !important;
+    text-transform: capitalize !important;
+}
+
+@media screen and (max-width:700px) {
+    .font-x5{
+        font-size: 2rem !important;
+
+    }
+}
+.potfolio-cover{
+    background:url('/images/Nnamdi\ 2.jpeg') no-repeat top center;
+    object-fit: cover;
+    width: 100%;
+    background-origin:border-box;
+    background-size: cover;
+    background-color: #020f14 !important;
+    background-blend-mode: soft-light !important;
+    }
+    
 .header-cover{
 background:url('/images/Nnamdi\ 07.jpeg') no-repeat top center;
 object-fit: cover;
@@ -76,15 +123,42 @@ background-color: #0f5e80 !important;
 background-blend-mode: soft-light !important;
 }
 .journal-cover{
-background:url('/images/Nnamdi\ 010.jpeg') no-repeat top center;
-object-fit: cover;
+ background:url('/images/Nnamdi\ 5.jpeg') no-repeat top center;
+ object-fit: cover;
 width: 100%;
 background-origin:border-box;
-background-size: cover;
+background-size: cover; 
 background-color: #0f5e80 !important;
 background-blend-mode: soft-light !important;
 
 }
+
+
+.journal-cover-bg{
+    background-color:rgb(228, 238, 247) !important;
+
+}
+.journal-cover-bg article{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+    background-color: #fff !important;
+}
+.journal-cover-bg li h6, p{
+    color: #000;
+}
+.journal-cover-bg article .downloadbtn{
+    padding: 1.2rem 1.3rem;
+    font-size: 11px;
+    cursor: pointer;
+    border: none !important;
+    background-color: #B0CA35;
+    border-radius: 9px;
+}
+.journal-cover-bg article .downloadbtn a{
+    border: none !important;
+}
+
+
+
 .about-cover{
 background:url('/images/Nnamdi\ 5.jpeg') no-repeat top center;
 object-fit: cover;
@@ -107,15 +181,40 @@ background-blend-mode: soft-light !important;
 #introblocks .group li .div-height {
     height: 30vh !important;
 }
+
+.div-height-portfolio{
+    height: 20vh !important;
+}
 .publication-h .para-h{
     height: 45vh;
 }
 @media screen and (max-width:750px) {
-    .publication-h .para-h{
+    .publication-h .para-h, .div-height-portfolio{
         height: auto !important;
     }
       
 }
+@media screen and (max-width:750px) {
+    .div-height-portfolio{
+        height: 100% !important;
+    }
+      
+}
+
+@media screen and (max-width:850px) {
+   .div-height-portfolio{
+        height: 30vh!important;
+    }
+      
+}
+@media screen and (min-width:850px) {
+    .div-height-portfolio{
+         height: 100% !important;
+     }
+       
+ }
+ 
+
 @media screen and (min-width:700px) {
     .publication-h .para-h{
         overflow-y: scroll;

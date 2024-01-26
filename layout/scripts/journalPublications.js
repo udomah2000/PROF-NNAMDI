@@ -43,7 +43,7 @@ const journals = [
         Image Management Strategies of Nigeria Security & Civil Defence Corps After
         the Infamous “Oga at the Top” Incident. Journalism and Mass Communication.
         9(2), 84-99. doi: 10.17265/2160-6579/2019.02.004.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Public Relations and Image Management Strategies of Nigeria Security & Civil Defence Corps After the Infamous “Oga at the Top” Incident.pdf"download="../../Document/PUBLICATIONS/Public Relations and Image Management Strategies of Nigeria Security & Civil Defence Corps After the Infamous “Oga at the Top” Incident.pdf" title="Download ">Download</a>`
     },
     {
         id: 6,
@@ -87,7 +87,7 @@ const journals = [
         body: ` Nigerian Media, Boko-Terrorism, and
         Politics of the 2015 Nigerian General Elections. The Nigerian Journal of
         Communication, 13(1), 103-136`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Nigerian Media, Boko-Terrorism, and Politics of the 2015 Nigerian General Elections.pdf" download="../../Document/PUBLICATIONS/Nigerian Media, Boko-Terrorism, and Politics of the 2015 Nigerian General Elections.pdf" title="Download ">Download</a>`
     },
     {
         id: 11,
@@ -204,7 +204,7 @@ const journals = [
         body: ` Perceived Role of Entertainment Television
         in Shaping Social Behaviour of Teenagers. The Nigerian Journal of
         Communication, 9(1), 67-90.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Perceived Role of Entertainment Television on the Behaviour of Teenagers.pdf"download="../../Document/PUBLICATIONS/Perceived Role of Entertainment Television on the Behaviour of Teenagers.pdf" title="Download ">Download</a>`
     },
     {
         id: 26,
@@ -244,7 +244,7 @@ const journals = [
         body: ` The Influence of Facebook
         Usage on Self Disclosure and Romantic Relationship among Young Nigerians.
         Indian Journal of Media Studies, 4(1), 31-43`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/NIGERIAN PRESS COVERAGE OF POLITICAL CONFLICTS IN A PLURALISTIC SOCIETY.pdf" download="../../Document/PUBLICATIONS/NIGERIAN PRESS COVERAGE OF POLITICAL CONFLICTS IN A PLURALISTIC SOCIETY.pdf" title="Download ">Download</a>`
     },
     {
         id: 31,
@@ -252,7 +252,7 @@ const journals = [
         body: ` Nollywood, New Communication Technologies and
         Indigenous Cultures in a Globalized World: The Nigerian Dilemma.
         International Journal of Social Sciences and Management, 2(2), 62-84`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Nollywood, New Communication Technologies and Indigenous Cultures in a Globalized World The Nigerian Dilemma.pdf"download="../../Document/PUBLICATIONS/Nollywood, New Communication Technologies and Indigenous Cultures in a Globalized World The Nigerian Dilemma.pdf" title="Download ">Download</a>`
     },
     {
         id: 32,

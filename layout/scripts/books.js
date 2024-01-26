@@ -66,7 +66,7 @@ const book = [
         Imperative of Peace Journalism in Nigeria In Olatunji, R. W.; OgwezzyNdisika, A. O.; Jimoh, J. (Eds). Media, Governance and Sustainable
         Development in Nigeria (Festschrift in Honour of Professor Lai Oso at 60). (pp
         121-134). Lagos: LASU Publishers`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Political Conflicts and the Imperative of Peace Journalism in Nigeria .pdf"download="../../Document/PUBLICATIONS/Political Conflicts and the Imperative of Peace Journalism in Nigeria .pdf" title="Download">Download</a>`
     },
     {
         id: 10,
@@ -129,7 +129,7 @@ const book = [
         Cultural Dialectics: The American Example. In Umaru, P., Chinenye N., and
         Nsikak, I. (Eds). Politics, Culture and the Media in Nigeria. Pp.139-155,
         Ibadan: Stirling-Horden Publishers`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/PRESS FREEDOM, POLITICS and the NIGERIAN CULTURAL DIALECTICS The American Example.pdf"download="../../Document/PUBLICATIONS/PRESS FREEDOM, POLITICS and the NIGERIAN CULTURAL DIALECTICS The American Example.pdf" title="Download">Download</a>`
     },
     {
         id: 17,
@@ -156,7 +156,7 @@ const book = [
         The Developmental Imperatives. In Soola, E. O., et al (Eds) Communication
         and Africa’s Development Crisis. Pp. 131-143, Germany: VDM Publishing
         House`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Nollywood and Nigeria indigenous Cultural Values The Developmental Imperatives.pdf"download="../../Document/PUBLICATIONS/Nollywood and Nigeria indigenous Cultural Values The Developmental Imperatives.pdf" title="Download">Download</a>`
     },
     {
         id: 20,

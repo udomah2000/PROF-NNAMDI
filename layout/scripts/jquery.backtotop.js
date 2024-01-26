@@ -36,3 +36,6 @@ let addeventControl = window.addEventListener('scroll', () =>{
     }
 })
 addeventControl()
+
+
+

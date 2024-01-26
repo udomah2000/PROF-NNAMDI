@@ -240,6 +240,11 @@ background-blend-mode: soft-light !important;
 z-index: 100;
 
 }
+
+/* contact form */
+  .align-text{
+    text-align: center;
+  }
 .stickBar{
     position: fixed !important;
     background-color: #0f5e80 !important;

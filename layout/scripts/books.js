@@ -93,7 +93,7 @@ const book = [
         Development. In D. Wilson (ed). Mass Media and the Electoral Process in
         Nigeria, Pp 141-164, Uyo: African Council for Communication Education
         (ACCE).`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Boko Haram and Transnational Terrorism in Africa Implications for Political Communication and Media Development.pdf" download="../../Document/PUBLICATIONS/Boko Haram and Transnational Terrorism in Africa Implications for Political Communication and Media Development.pdf" title="Download">Download</a>`
     },
     {
         id: 13,
@@ -120,7 +120,7 @@ const book = [
         (ed) Communication and the New Media in Nigeria (Social Engagements,
         Political Development and Public Discourse), Pp 85-132, Nigeria: African
         Council for Communication Education.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/AUDIENCE ASSESSMENT OF THE INFLUENCE OF SOCIAL MEDIA NETWORKS ON THE GLOBAL NEWS FLOW CONTROVERSY.pdf" download="../../Document/PUBLICATIONS/AUDIENCE ASSESSMENT OF THE INFLUENCE OF SOCIAL MEDIA NETWORKS ON THE GLOBAL NEWS FLOW CONTROVERSY.pdf" title="Download">Download</a>`
     },
     {
         id: 16,
@@ -129,7 +129,7 @@ const book = [
         Cultural Dialectics: The American Example. In Umaru, P., Chinenye N., and
         Nsikak, I. (Eds). Politics, Culture and the Media in Nigeria. Pp.139-155,
         Ibadan: Stirling-Horden Publishers`,
-        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/PRESS FREEDOM, POLITICS and the NIGERIAN CULTURAL DIALECTICS The American Example.pdf"download="../../Document/PUBLICATIONS/PRESS FREEDOM, POLITICS and the NIGERIAN CULTURAL DIALECTICS The American Example.pdf" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/ FREEDOM, POLITICS and the NIGERIAN CULTURAL DIALECTICS The American Example (1).pdf" download="../../Document/PUBLICATIONS/ FREEDOM, POLITICS and the NIGERIAN CULTURAL DIALECTICS The American Example (1).pdf" title="Download">Download</a>`
     },
     {
         id: 17,
@@ -138,7 +138,7 @@ const book = [
         Management. In Olatunji, R. & Laninhun (Eds). Dimensions of Advertising
         Theory and Practice in Africa. (Pp. 36-50). Dakar, Senegal: AMALION
         PUBLISHING.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Advertising, Semiotic and Strategic Brand Management (1).pdf" download="../../Document/PUBLICATIONS/Advertising, Semiotic and Strategic Brand Management (1).pdf" title="Download">Download</a>`
     },
     {
         id: 18,
@@ -147,7 +147,7 @@ const book = [
         imperialism theory. In N. T. Ekeanyanwu, S. N. Ngoa, I. A. Sobowale (Eds.)
         Critique and application of communication theories (pp 28-49). Ota: Covenant
         University Press.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Theorizing Cultural Development vis-à-vis Cultural Imperialism Theory.pdf"download="../../Document/PUBLICATIONS/Theorizing Cultural Development vis-à-vis Cultural Imperialism Theory.pdf" title="Download">Download</a>`
     },
     {
         id: 19,
@@ -197,7 +197,7 @@ const book = [
         body: ` Culture, Communication and Human Development in
         Nigeria. In Simpson, A. & Akinsola, E. F. (Eds). Culture, Media, Technology
         and Psycho-Social Development in Nigeria. pp.63-82, Lagos: Interlingua.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Culture Communication and Human development in Nigeria.pdf" download="../../Document/PUBLICATIONS/Culture Communication and Human development in Nigeria.pdf" title="Download">Download</a>`
     },
     {
         id: 25,
@@ -205,7 +205,7 @@ const book = [
         body: ` News Flow Controversy: The Global Media Coverage of
         Nigerian Democracy, In Omu, F. I. A. & Oboh, G. E. (Eds.) Mass Media in
         Nigerian Democracy. Pp.226-261, Benin City: Stirling-Horden Publishers.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/News Flow Controversy The Global Media Coverage of Nigerian Democracy.pdf" download="../../Document/PUBLICATIONS/News Flow Controversy The Global Media Coverage of Nigerian Democracy.pdf" title="Download">Download</a>`
     },
     {
         id: 26,
@@ -214,7 +214,7 @@ const book = [
         Development Communication In Mojaye, E. M., Oyewo, O. O., M’Bayo, R.,
         and Sobowale, I. A. (eds.) Globalisation And Development Communication In
         Africa. (Pp 83-99) Ibadan: University of Ibadan Press.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Africa And Global Challenges The Need For Integrated Development Communication.pdf" download="../../Document/PUBLICATIONS/Africa And Global Challenges The Need For Integrated Development Communication.pdf" title="Download">Download</a>`
     },
     {
         id: 27,

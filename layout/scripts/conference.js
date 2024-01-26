@@ -142,7 +142,7 @@ const conference = [
         body: ` Building Sustainable Peace
         in Africa: Nigeria in Perspective. Being a paper presented at a Peace
         Conference organized by ACF Accra, Ghana, from August 9-11, 2012.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Building Peace Paper by Nwadike and Nnamdi.pdf" download="../../Document/PUBLICATIONS/Building Peace Paper by Nwadike and Nnamdi.pdf" title="Download">Download</a>`
     },{
         id: 17,
         title: `Ekeanyanwu, N. T. and Kalyango, Y. (2012).`,
@@ -168,7 +168,7 @@ const conference = [
         Drinking Expectances. Being a paper presented at the 16th National
         Conference of the African Council for Communication Education (ACCE)
         held at the University of Nigeria, Nsukka, from March 10 – 12, 2014.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/THEORY OF PLANNED BEHAVIOUR MEASURING ADOLESCENTS MEDIA LITERACY AND ALCOHOL DRINKING EXPENTANCIES.pdf" download="../../Document/PUBLICATIONS/THEORY OF PLANNED BEHAVIOUR MEASURING ADOLESCENTS MEDIA LITERACY AND ALCOHOL DRINKING EXPENTANCIES.pdf" title="Download">Download</a>`
     },{
         id: 20,
         title: `Ekeanyanwu, N. T. and Ajakaiye, L. (2015)`,
@@ -185,7 +185,7 @@ const conference = [
         Conference of the African Council for Communication Education (ACCE)
         held at the University of Port Harcourt, Port Harcourt, Rivers State from
         October 25 – 28, 2016.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/ECONOMICS OF DECLINE IN THE MEDIA INDUSTRY WITH ANIEBO AND OYOKUNYI.pdf" download="../../Document/PUBLICATIONS/ECONOMICS OF DECLINE IN THE MEDIA INDUSTRY WITH ANIEBO AND OYOKUNYI.pdf" title="Download">Download</a>`
     },{
         id: 22,
         title: `Ekeanyanwu, N. T. (2017)`,
@@ -194,7 +194,7 @@ const conference = [
         International Conference of the Association of Educators of Journalism and
         Mass Communication (AEJMC) held at the Downtown Marriot Chicago,
         United States, from August 9 – 12, 2017`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/ECONOMICS OF DECLINE IN JOURNALISM AND MASS COMM by EKEANYANWU AND CO.pdf"download="" title="Download">Download</a>`
     },{
         id: 23,
         title: `Ekeanyanwu, N. T. (2018)`,

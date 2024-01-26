@@ -26,7 +26,7 @@ const journals = [
         Practice in PostCorporal Punishment Era: A Correlational Quantitative
         Evaluation. International Journal of Psychosocial Rehabilitation, 25 (2), 1345-
         1354.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Teaching Engagement and Preschool Practitioners.pdf" download="../../Document/PUBLICATIONS/Teaching Engagement and Preschool Practitioners.pdf" title="Download">Download</a>`
     },
     {
         id: 4,
@@ -34,7 +34,7 @@ const journals = [
         body: ` The Rationale for Qualitative Research
         Methods in the Era of Fake News. The Nigerian Journal of Communication.
         16(2), 267-294.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/The-Rationale-for-Qualitative-Research-Methods .pdf" download="../../Document/PUBLICATIONS/The-Rationale-for-Qualitative-Research-Methods .pdf" title="Download">Download</a>`
     },
     {
         id: 5,
@@ -61,7 +61,7 @@ const journals = [
         Firms and Implications for a Diminishing Print Media Industry in Nigeria.
         Journalism and Mass Communication. 7(8), 427-445. doi: 10.17265/2160-
         6579/2017.08.001`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/ECONOMICS OF DECLINE IN JOURNALISM AND MASS COMM COMPLETE.pdf" download="./../Document/PUBLICATIONS/ECONOMICS OF DECLINE IN JOURNALISM AND MASS COMM COMPLETE.pdf" title="Download ">Download</a>`
     },
     {
         id: 8,
@@ -70,7 +70,7 @@ const journals = [
         Survival Strategies of the Newspaper Industry in a Depressed Economy: A
         Study of the Daily Trust and the Leadership Newspapers. The Nigerian Journal
         of Communication. 14(1), 281-320`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="#" download="" title="Download ">Download</a>`
     },
     {
         id: 9,
@@ -79,7 +79,7 @@ const journals = [
         Decline and Survival Strategies of Nigerian Print Media Industry: A Study of
         The Guardian; The Sun and Leadership Newspapers. University of Uyo Journal
         of Humanities. 21(2), 305-327`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/ECONOMICS OF DECLINE IN THE MEDIA INDUSTRY WITH ANIEBO AND OYOKUNYI.pdf" download="" title="Download ">Download</a>`
     },
     {
         id: 10,
@@ -95,7 +95,7 @@ const journals = [
         body: `Children, Youths and Mediated Violence:
         A Reflective Evaluation of Some Selected Theoretical Models. The Nigerian
         Journal of Communication. 12(1), 50-71`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Children, Youths and Mediated Violence A Reflective Evaluation of Some Selected Theoretical Models.pdf" download="../../Document/PUBLICATIONS/Children, Youths and Mediated Violence A Reflective Evaluation of Some Selected Theoretical Models.pdf" title="Download ">Download</a>`
     },
     {
         id: 12,
@@ -111,7 +111,7 @@ const journals = [
         body: ` ICT, Cyber-bullying, and Self-disclosure:
         an Experiential Study of Twitter. Covenant Journal of Communication, 2(1), 61-
         76`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/ICT CYBER BULLYING AND SELF DISCLOSURE.pdf" download="../../Document/PUBLICATIONS/ICT CYBER BULLYING AND SELF DISCLOSURE.pdf" title="Download ">Download</a>`
     },
     {
         id: 14,
@@ -119,7 +119,7 @@ const journals = [
         body: ` Rethinking International News Flow in
         the Era of Social Media. The Nigerian Journal of Communication. 11(1), 139-
         164.`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Rethinking International News Flow in the Era of Social Media.pdf" download="../../Document/PUBLICATIONS/Rethinking International News Flow in the Era of Social Media.pdf" title="Download ">Download</a>`
     },
     {
         id: 15,
@@ -134,7 +134,7 @@ const journals = [
         title: `Peter, A. S. & Ekeanyanwu, N. T. (2013)`,
         body: ` Book Review: The Elements of Journalism.
         Covenant Journal of Communication, 1(2), 196-201`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/BookReview THE ELEMENETS OF JOURNALISM BY BILL KOVACH AND TOM ROSENSTIEL.pdf" download="../../Document/PUBLICATIONS/BookReview THE ELEMENETS OF JOURNALISM BY BILL KOVACH AND TOM ROSENSTIEL.pdf" title="Download ">Download</a>`
     },
     {
         id: 17,
@@ -142,7 +142,7 @@ const journals = [
         body: ` Global News Flow Debate
         in the Era of Social Media Networks: Is the U.S. Media Still the World’s News
         Leader? European Scientific Journal. 8(3), 135-160`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Global News Flow Controversy in the Era of Social Media.pdf" download="../../Document/PUBLICATIONS/Global News Flow Controversy in the Era of Social Media.pdf" title="Download ">Download</a>`
     },
     {
         id: 18,
@@ -150,7 +150,7 @@ const journals = [
         body: ` Drama and Communication
         in Television Advertising: A Study of MTN’s “Sunrise” and Indomie Noodle’s
         “Make the World a Better Place” European Scientific Journal. 8(5), 85-105`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/DRAMA AND COMMUNICATION IN TELEVISION.pdf" download="../../Document/PUBLICATIONS/DRAMA AND COMMUNICATION IN TELEVISION.pdf" title="Download ">Download</a>`
     },
     {
         id: 19,
@@ -158,14 +158,14 @@ const journals = [
         body: ` The Nigerian Press, Brown Envelope
         Syndrome  (BES) and Media Professionalism: The Missing Link. Journalism
         and Mass Communication. 2(4), 514-529`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/The Nigerian Press Brown Envelope Syndrome BES and Media Professionalism.pdf" download="../../Document/PUBLICATIONS/The Nigerian Press Brown Envelope Syndrome BES and Media Professionalism.pdf" title="Download ">Download</a>`
     },
     {
         id: 20,
         title: `Nwadike, F. & Ekeanyanwu, N. T. (2012)`,
         body: ` Building Sustainable Peace in Africa:
         Nigeria in Perspective. African Media and Democracy Journal. 1(2), 80-96`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Building Peace Paper by Nwadike and Nnamdi.pdf" download="../../Document/PUBLICATIONS/Building Peace Paper by Nwadike and Nnamdi.pdf" title="Download ">Download</a>`
     },
     {
         id: 21,
@@ -181,14 +181,14 @@ const journals = [
         body: ` Examination of Value Conflict Limiting
         Conception of Multicultural Education in Minority Institutions in the US:
         Retention and Graduation Outcry. Fort Hare Papers, 17(1), 33-47`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Examination of Value Conflict Limiting Conception of Multicultural Education in Minority Institutions in the US.pdf" download="../../Document/PUBLICATIONS/Examination of Value Conflict Limiting Conception of Multicultural Education in Minority Institutions in the US.pdf" title="Download ">Download</a>`
     },
     {
         id: 23,
         title: `Ekeanyanwu, N. T. & Nkem Ndem Vivienne (2011)`,
         body: ` Reporting the Global War on
         Terrorism: Cases from Nigeria. Fort Hare Papers, 17(1), 137-167`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Reporting the Global War on Terrorism.pdf"download="../../Document/PUBLICATIONS/Reporting the Global War on Terrorism.pdf" title="Download ">Download</a>`
     },
     {
         id: 24,
@@ -196,7 +196,7 @@ const journals = [
         body: ` Teaching Speech Communication in a
         Black College: Does Technology Really Make a Difference? US-CHINA
         Education Review, 1(2), 195-202`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Teaching Speech Communication in a Black College Does Technology Make a Difference.pdf" download="../../Document/PUBLICATIONS/Teaching Speech Communication in a Black College Does Technology Make a Difference.pdf" title="Download ">Download</a>`
     },
     {
         id: 25,
@@ -212,7 +212,7 @@ const journals = [
         body: ` Information Literacy, ICT
         and Today’s Work Place: A 21st Century Synergy? Indian Journal of Media
         Studies, 5(1), 1-9`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="#" download="#" title="Download ">Download</a>`
     },
     {
         id: 27,
@@ -228,7 +228,7 @@ const journals = [
         body: ` Reporting Sexuality Issues: Cases from
         the Nigerian Press. International Journal of Social Sciences and Humanities
         Review, 2(4), 110-123`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/REPORTING SEXUALITY ISSUES IN THE NIGERIAN PRESS.pdf" download="../../Document/PUBLICATIONS/REPORTING SEXUALITY ISSUES IN THE NIGERIAN PRESS.pdf" title="Download">Download</a>`
     },
     {
         id: 29,
@@ -260,7 +260,7 @@ const journals = [
         body: ` Cultural Implications of ICTs and
         Globalization in the Nigerian Society. Journal of Communication and Media
         Research, 1(2), 13-29`,
-        download: `<a class="btn inverse" href="#"download="" title="Download">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Cultural_Implication_of_ICTs_and_Globalisation_in_the_Nigerian_Society.pdf" download="../../Document/PUBLICATIONS/Cultural_Implication_of_ICTs_and_Globalisation_in_the_Nigerian_Society.pdf" title="Download">Download</a>`
     },
     {
         id: 33,
@@ -268,7 +268,7 @@ const journals = [
         body: ` Indigenous Cultures the in Era of Globalization: A Case
         Against Cultural Imperialism Theory. Communicare: Journal for
         Communication Sciences in Southern Africa, 28(1), 126-143`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Indigenous Cultures In The Era Of Globalisation A Case Against Cultural Imperialism Theory.pdf" download="../../Document/PUBLICATIONS/Indigenous Cultures In The Era Of Globalisation A Case Against Cultural Imperialism Theory.pdf" title="Download ">Download</a>`
     },
     {
         id: 34,
@@ -276,7 +276,7 @@ const journals = [
         body: ` Analysis of the Editorial Content of Nigerian
         National Newspapers. Oko Journal of Communication and Information Sciences,
         1(2), 73-103`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Analysis of the Editorial Content of Nigerian National Newspapers.pdf" download="../../Document/PUBLICATIONS/Analysis of the Editorial Content of Nigerian National Newspapers.pdf" title="Download ">Download</a>`
     },
     {
         id: 35,
@@ -284,7 +284,7 @@ const journals = [
         body: ` Indigenous Culture, Communication
         and Globalization in Developing Societies: A Case for Cultural Development
         Hypothesis. International Journal of Communication, 8 (1), 102-123`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Indigenous Culture, Communication and Globalization in Developing Societies A Case for Cultural Development Hypothesis.pdf" download="../../Document/PUBLICATIONS/Indigenous Culture, Communication and Globalization in Developing Societies A Case for Cultural Development Hypothesis.pdf" title="Download ">Download</a>`
     },
     {
         id: 36,
@@ -292,7 +292,7 @@ const journals = [
         body: ` The Media and Cultism in Nigerian
         Higher Institutions of Learning: A Study of Coverage, Treatment and Relevance.
         International Journal of Communication, 6(1), 370-388`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/The Media and Cultism in Nigerian Higher Institutions Of Learning A Study Of Coverage, Treatment And Relevance.pdf" download="../../Document/PUBLICATIONS/The Media and Cultism in Nigerian Higher Institutions Of Learning A Study Of Coverage, Treatment And Relevance.pdf" title="Download ">Download</a>`
     },
     {
         id: 37,
@@ -307,7 +307,7 @@ const journals = [
         title: `Ekeanyanwu, N. T. (2007)`,
         body: ` Global News Flow Controversy: Is The South Also Guilty?
         International Journal of Communication, 7(1), 13-42`,
-        download: `<a class="btn inverse" href="#"download="" title="Download ">Download</a>`
+        download: `<a class="btn inverse" href="../../Document/PUBLICATIONS/Global News Flow Controversy Is the South Also Guilty.pdf" download="../../Document/PUBLICATIONS/Global News Flow Controversy Is the South Also Guilty.pdf" title="Download ">Download</a>`
     },
     {
         id: 39,

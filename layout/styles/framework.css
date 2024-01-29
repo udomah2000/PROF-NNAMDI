@@ -103,7 +103,7 @@ p.text-cap{
     }
 }
 .potfolio-cover{
-    background:url('/images/Nnamdi\ 2.jpeg') no-repeat top center;
+    background:url('../../images/Nnamdi\ 2.jpeg') no-repeat top center;
     object-fit: cover;
     width: 100%;
     background-origin:border-box;
@@ -113,7 +113,7 @@ p.text-cap{
     }
 
     .conference-cover{
-        background:url('/images/Nnamdi\ 9.jpeg') no-repeat top center;
+        background:url('../../images/Nnamdi\ 9.jpeg') no-repeat top center;
         object-fit: cover;
         width: 100%;
         background-origin:border-box;
@@ -124,7 +124,7 @@ p.text-cap{
     
     }
     .about-cover-list{
-        background:url('/images/Nnamdi\ 010.jpeg') no-repeat top center;
+        background:url('../../images/Nnamdi\ 010.jpeg') no-repeat top center;
         object-fit: cover;
         width: 100%;
         background-origin:border-box;
@@ -140,7 +140,7 @@ p.text-cap{
 
     }
     .academic-cover{
-        background:url('/images/Nnamdi\ 6.jpeg') no-repeat top center;
+        background:url('../../images/Nnamdi\ 6.jpeg') no-repeat top center;
         object-fit: cover;
         width: 100%;
         background-origin:border-box;
@@ -151,7 +151,7 @@ p.text-cap{
     }
     
 .header-cover{
-background:url('/images/Nnamdi\ 07.jpeg') no-repeat top center;
+background:url('../../images/Nnamdi\ 07.jpeg') no-repeat top center;
 object-fit: cover;
 width: 100%;
 background-origin:border-box;
@@ -160,7 +160,7 @@ background-color: #0f5e80 !important;
 background-blend-mode: soft-light !important;
 }
 .journal-cover{
- background:url('/images/Nnamdi\ 5.jpeg') no-repeat top center;
+ background:url('../../images/Nnamdi\ 5.jpeg') no-repeat top center;
  object-fit: cover;
 width: 100%;
 background-origin:border-box;
@@ -219,7 +219,7 @@ background-blend-mode: soft-light !important;
 }
 
 .about-cover{
-background:url('/images/Nnamdi\ 5.jpeg') no-repeat top center;
+background:url('../../images/Nnamdi\ 5.jpeg') no-repeat top center;
 object-fit: cover;
 width: 100%;
 background-origin:border-box;
@@ -229,7 +229,7 @@ background-blend-mode: soft-light !important;
 
 }
 .book-cover{
- background:url('/images/Nnamdi\ 6.jpeg') no-repeat top center;
+ background:url('../../images/Nnamdi\ 6.jpeg') no-repeat top center;
 object-fit: cover;
 width: 100%;
 height: fit-content;

@@ -219,7 +219,7 @@ background-blend-mode: soft-light !important;
 }
 
 .about-cover{
-background:url('../../images/Nnamdi\ 5.jpeg') no-repeat top center;
+background:url('.././images/Nnamdi\ 5.jpeg') no-repeat top center;
 object-fit: cover;
 width: 100%;
 background-origin:border-box;
